@@ -2,7 +2,7 @@
 name = "lahendus-ut-ee"
 version = "0.1.0"
 description = ""
-authors = ["willem"]
+authors = ["vllem"]
 readme = "README.md"
 packages = [{include = "lahendus_ut_ee"}]
 
