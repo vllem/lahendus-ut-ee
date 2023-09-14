@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "lahendus-ut-ee"
+version = "0.1.0"
+description = ""
+authors = ["willem"]
+readme = "README.md"
+packages = [{include = "lahendus_ut_ee"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
